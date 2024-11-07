@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: Bewaar en Vernietig, Tenant: Archive-IT Group (tiimgdemo.eu - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
